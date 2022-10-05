@@ -1,3 +1,4 @@
+// Never give up
 const core = require("@actions/core");
 // const github = require("@actions/github");
 
